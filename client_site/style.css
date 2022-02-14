@@ -1,0 +1,64 @@
+.card-0 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background-color: rgb(177, 71, 238);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-1 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background-color: rgb(107, 182, 252);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-2 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background-color: rgb(115, 172, 31);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-3 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background-color: rgb(251, 255, 0);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-4 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background-color: rgb(255, 46, 46);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.card-5 {
+    text-align: center;
+    width: 30px;
+    height: 50px;
+    background: linear-gradient(60deg, red, yellow, blue, green);
+    /*background-color: rgb(255, 174, 0);*/
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.line {
+    display: flex;
+}
